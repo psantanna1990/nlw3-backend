@@ -117,4 +117,4 @@ dist
 
 # My Folders
 uploads/
-database/database.sqlite
+./database/database.sqlite
